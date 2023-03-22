@@ -10,13 +10,11 @@
   
   ### Heading
   1. If using Python, consider list comprehension. In general, consider what it means for a number to be a multiple, divisibility, and look up potentially useful mathematical operators.
-  2. Bar
-     * Baz
-     * Qux
+  2. Make sure to understand what a fibonacci number is and both the base and recursive cases (depending on your implementation). Make sure to start small.
   3.
   4.
   5.
-  6.
+  6. Consider using a lambda function.
   7.
   8.
   9.
